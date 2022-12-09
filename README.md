@@ -1,7 +1,7 @@
 # Nike Store Commerce Web Application! Check Live: [https://nike-store-app.netlify.app/)
 This project is developed and designed by MOHANAD KHALED
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
-# Important Links: 📣📢📣📢📣📢✈✈✈
+# Important Links: 📣📢✈
 ### Go to ViteJS [https://vitejs.dev/] (https://vitejs.dev/)!
 ### Go to TailwindCSS [https://tailwindcss.com/](https://tailwindcss.com/)!
 ### Go to Redux-Toolkit [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)!
